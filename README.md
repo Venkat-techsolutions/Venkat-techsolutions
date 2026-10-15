@@ -14,10 +14,6 @@ and the commerce platforms around it.
 - Connectors: Magento 2, Shopify, BigCommerce ·
 - Automotive fitment (Year/Make/Model) data models feeding Shopify
 
-### Notes & tools
-- [akeneo-upgrade-checklist](https://github.com/Venkat-techsolutions/akeneo-upgrade-checklist): moving self-hosted CE from 5.x/6.x/7.x to 2026.x
-- [akeneo-ee-to-ce-notes](https://github.com/Venkat-techsolutions/akeneo-ee-to-ce-notes): what changes when you leave Enterprise for Community
-- [akeneo-api-toolkit](https://github.com/Venkat-techsolutions/akeneo-api-toolkit): TypeScript scripts for the Akeneo REST API (instance inventory first)
 
 ### Stack
 TypeScript · Node.js · Akeneo REST API · Shopify Admin GraphQL · SQL · Docker · Linux
